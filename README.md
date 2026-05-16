@@ -19,7 +19,7 @@
   
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/muneebwanee/InstaReporter)  
+[![Status](https://img.shields.io/badge/Status-Offline-red.svg)](https://github.com/muneebwanee/InstaReporter)  
   
 </div>  
   
